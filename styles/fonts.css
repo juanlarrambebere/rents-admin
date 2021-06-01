@@ -1,0 +1,49 @@
+@layer base {
+  @font-face {
+    font-family: "MarkWebPro";
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+    src: url("/fonts/markwebpro/1466000/021bca8a-04d2-4658-9598-7f54e37255a3.eot?#iefix");
+    src: url("/fonts/markwebpro/1466000/021bca8a-04d2-4658-9598-7f54e37255a3.eot?#iefix")
+        format("eot"),
+      url("/fonts/markwebpro/1466000/911d53bf-61c5-453a-ba54-6c6b12e432d8.woff2")
+        format("woff2"),
+      url("/fonts/markwebpro/1466000/9069c8de-de1f-4c7e-b81f-dee8057e98f8.woff")
+        format("woff"),
+      url("/fonts/markwebpro/1466000/dafbeddd-575a-4f74-b362-b0a940ee73e4.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: "MarkWebPro";
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+    src: url("/fonts/markwebpro/1466052/32a550c1-2bd0-41e2-ba81-dc666b15df72.eot?#iefix");
+    src: url("/fonts/markwebpro/1466052/32a550c1-2bd0-41e2-ba81-dc666b15df72.eot?#iefix")
+        format("eot"),
+      url("/fonts/markwebpro/1466052/0dc0af66-6f8b-4e8d-b349-c1ecd4502ff0.woff2")
+        format("woff2"),
+      url("/fonts/markwebpro/1466052/374b5f1e-ca5f-4ed8-b876-045f2b8387de.woff")
+        format("woff"),
+      url("/fonts/markwebpro/1466052/b0678d8f-c1b3-42e1-b35a-712675f9048b.ttf")
+        format("truetype");
+  }
+
+  @font-face {
+    font-family: "MarkWebPro";
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    src: url("/fonts/markwebpro/1466068/76b78c7b-50e8-443f-947d-491bd1363209.eot?#iefix");
+    src: url("/fonts/markwebpro/1466068/76b78c7b-50e8-443f-947d-491bd1363209.eot?#iefix")
+        format("eot"),
+      url("/fonts/markwebpro/1466068/b3504f0d-8be1-4759-bb03-dd041a630b85.woff2")
+        format("woff2"),
+      url("/fonts/markwebpro/1466068/f4f1b391-1256-4245-ba89-842d884c1e51.woff")
+        format("woff"),
+      url("/fonts/markwebpro/1466068/1f72bfeb-0b2a-45fa-aaee-bbd991d40541.ttf")
+        format("truetype");
+  }
+}
